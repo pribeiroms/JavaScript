@@ -1,6 +1,6 @@
 <div align="center">
   
 # Biblioteca de Projetos JavaScript 
-Repositório com projetos, exercícios e experimentos em JavaScript, focado em aprimorar habilidades na linguagem e aplicar conceitos em projetos práticos.
+Coleção de projetos e experimentos em JavaScript, voltado para prática da linguagem e aplicação de conceitos em projetos reais.
 
 </div>
